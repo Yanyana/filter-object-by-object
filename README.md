@@ -1,4 +1,4 @@
-# filterObjectByObject
+# filter Object By Object
 var x = [
  {"val": 1, "text": "a"},
  {"val": 2, "text": "b"},
